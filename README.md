@@ -1,1 +1,1 @@
-# MyProfile
+# HTML project to showcase my profile
